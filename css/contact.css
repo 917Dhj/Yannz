@@ -75,6 +75,7 @@ div#head img{
 }
 
 .name_title {
+    font-family: YouYuan;
     font-size: 18px;
     margin-left: 40px;
     margin-bottom: 30px;
@@ -91,6 +92,7 @@ div#head img{
     font-size: 16px;
     border: none;
     margin-top: 40px;
+    font-family: YouYuan;
 }
 
 .type_title {
@@ -98,9 +100,11 @@ div#head img{
     margin-left: 50px;
     margin-top: 20px;
     font-weight: bold;
+    font-family: YouYuan;
 }
 
 #type {
+    font-family: YouYuan;
     width: 380px;
     height: 50px;
     margin-left: 80px;
@@ -111,6 +115,7 @@ div#head img{
 }
 
 .message_title {
+    font-family: YouYuan;
     font-size: 18px;
     margin-left: 40px;
     margin-top: 20px;
@@ -125,6 +130,7 @@ div#head img{
     border: none;
     margin-left: 80px;
     text-indent: 2em;
+    font-family: YouYuan;
 }
 
 footer {
