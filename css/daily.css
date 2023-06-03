@@ -150,6 +150,7 @@ img{
 }
 
 .title1 {
+    font-family: YouYuan;
     font-size: 30px;
     font-weight: bold;
     width: 400px;
@@ -167,6 +168,7 @@ img{
 }
 
 .title2 {
+    font-family: YouYuan;
     width: 200px;
     font-size: 24px;
     font-weight: bold;
