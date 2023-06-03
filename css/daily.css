@@ -251,6 +251,7 @@ img{
 }
 
 .program_1 {
+    font-family: YouYuan;
     margin-left: 180px;
     width: 95px;
     height: 25px;
@@ -269,6 +270,7 @@ img{
 }
 
 .program_2 {
+    font-family: YouYuan;
     margin-left: 180px;
     width: 145px;
     height: 25px;
@@ -293,6 +295,7 @@ img{
 
 .inschool {
     height: 180px;
+    font-family: YouYuan;
 }
 
 .inschool_title {
@@ -312,6 +315,7 @@ img{
 
 .outschool {
     height: 240px;
+    font-family: YouYuan;
 }
 
 .outschool_title {
