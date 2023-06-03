@@ -1,0 +1,143 @@
+body{
+    /* background-color: white; */
+    font-family: YouYuan;
+    font-size: small;
+    font-style: sans-serif;
+    background-image: url(../images/bg_1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment:fixed;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+div.inner{
+    width: 1400px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div#nav{
+    height: 41px;
+    background-color: white;
+}
+span{
+    font-family: Consolas;
+    font-size: 1.3em;
+    color: black;
+    float: left;
+    width: 200px;
+    line-height: 41px;
+    text-align: center;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li{
+    float: right;
+}
+li a{
+    display: block;
+    color: black;
+    font-size: 1.2em;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: transform 0.2s ease-in-out;
+}
+li a:hover{
+    /* font-size: 1.2em; */
+    transform: scale(1.2);
+    font-weight: bold;
+}
+div#head img{
+    height: 250px;
+    width: 100%;
+}
+
+#middle {
+    height: 500px;
+    width: 60%;
+    margin-left: 80px;
+    background-color: rgba(240, 248, 255,0.7);
+    margin-top: 60px;
+}
+
+.form {
+    height: 400px;
+    width: 640px;
+    padding-top: 30px;
+    margin-left: 30px;
+}
+
+.name_title {
+    font-size: 18px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    position: absolute;
+    font-weight: bold;
+}
+
+#name {
+    width: 380px;
+    height: 50px;
+    margin-left: 80px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 16px;
+    border: none;
+    margin-top: 40px;
+}
+
+.type_title {
+    font-size: 18px;
+    margin-left: 50px;
+    margin-top: 20px;
+    font-weight: bold;
+    /* position: absolute; */
+}
+
+#type {
+    width: 380px;
+    height: 50px;
+    margin-left: 80px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 16px;
+    border: none;
+    /* margin-top: 10px; */
+}
+
+.message_title {
+    font-size: 18px;
+    margin-left: 40px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+#message {
+    width: 550px;
+    height: 170px;
+    font-size: 18px;
+    border-radius: 20px;
+    border: none;
+    margin-left: 80px;
+    text-indent: 2em;
+}
+
+footer {
+    width: 400px;
+}
+
+.copyright {
+    color: black;
+    font-size: 12px;
+    padding-left: 40px;
+    width: 300px;
+}
